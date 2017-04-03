@@ -1,0 +1,141 @@
+body {
+	background-color: #298eea;
+	padding-top: 15px;
+	font-family: arial, sans-serif;
+	
+}
+
+
+img {
+height: 35px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+
+}
+
+h1 {
+text-align: center;
+padding-top: 50px;
+margin-top: 30px;
+font-size: 35px;
+}
+
+
+
+label {
+display: block;
+width: 100%;
+margin-bottom: 20px;
+font-weight: bold;
+margin-left: auto;
+margin-right: auto;
+width: 320px;
+margin-top: 40px;
+}
+
+
+
+
+.signup {
+background-color: white;
+width: 400px;
+padding-left: 40px;
+padding-right: 40px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding-bottom: 50px;
+
+}
+
+
+#email {
+padding-bottom: 15px;
+font-weight: bold;
+padding-top: 5px;
+width: 320px;
+height: 55px;
+border: 2px solid grey;
+padding: 15px;
+margin-right: auto;
+margin-left: auto;
+display: block;
+margin-bottom: 20px;
+font-size: 20px;
+
+}
+
+#password {
+
+padding-bottom: 15px;
+width: 320px;
+height: 55px;
+border: 2px solid grey;
+padding: 15px;
+margin-right: auto;
+margin-left: auto;
+display: block;
+font-weight: bold;
+margin-bottom: 40px; 
+font-size: 20px;
+
+
+
+}
+
+.sbutton {
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 320px;
+height: 55px;
+border: 2px;
+padding: 15px;
+background-color: #8FBC8F;
+font-weight: bold;
+font-size: 25px;
+margin-top: 60px;
+
+
+}
+
+.sbutton:hover {
+	background: #228b22;
+	padding-top: 10px;
+
+
+}
+
+.fpassword {
+	text-align: center;
+	text-decoration: none;
+	color: gray;
+	margin-top: 20px;
+}
+
+.fpassword a {
+color: gray;
+
+}
+
+.bottom {
+text-align: center;
+padding-top: 10px;
+color: white;
+
+}
+
+.bottom a {
+color: white;
+
+}
+
+a:.bottom {
+
+	color: white;
+}
+
+
+
